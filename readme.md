@@ -2,7 +2,7 @@
 
 You can input to google spreadsheet va googlescript (js) with formatted chat to a bot (Automatic Reply Chat Bot) from Googleplay.
 
-You can get it <a href="![alt text](image-1.png)" target="blank">here</a>
+You can get it <a href="https://play.google.com/store/apps/details?id=com.pransuinc.autoreply&hl=id" target="_blank">here</a>
 
 ![alt text](image.png)
 
